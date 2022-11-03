@@ -1,4 +1,4 @@
-### Olá, pessoal. Bem vindos(as) ao meu repositório!
+<h1 align="center">Olá, pessoal. Bem vindos(as) ao meu repositório!</h1>
 
 Aqui, você irá encontrar etudos e exercícios que fiz enquanto aprendia uma nova tecnologia!
 
