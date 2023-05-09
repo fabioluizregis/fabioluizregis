@@ -1,6 +1,5 @@
-<h1 align="center">Olá, pessoal. Bem vindos(as) ao meu repositório!</h1>
+<h1 align="center">Hi, everyone and welcome to my repository!</h1>
 
-Aqui, você irá encontrar etudos e exercícios que fiz enquanto aprendia uma nova tecnologia!
 
 <!--
 **fabioluizregis/fabioluizregis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
